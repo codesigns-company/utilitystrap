@@ -1,10 +1,7 @@
 {
   "name": "utilitystrap",
   "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web with added utilities for superhero abilities.",
-  "version": "0.9.0",
-  "config": {
-    "version_short": "0.9"
-  },
+  "version": "0.9.1",
   "keywords": [
     "css",
     "sass",
@@ -20,19 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/codesigns-company/utilitystrap.git"
   },
-  "bugs": {
-    "url": "https://github.com/twbs/bootstrap/issues"
-  },
-  "funding": [
-    {
-      "type": "github",
-      "url": "https://github.com/sponsors/twbs"
-    },
-    {
-      "type": "opencollective",
-      "url": "https://opencollective.com/bootstrap"
-    }
-  ],
   "main": "dist/js/bootstrap.js",
   "module": "dist/js/bootstrap.esm.js",
   "sass": "scss/bootstrap.scss",
