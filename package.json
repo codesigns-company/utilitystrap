@@ -1,7 +1,7 @@
 {
   "name": "utilitystrap",
   "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web with added utilities for superhero abilities.",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "keywords": [
     "css",
     "sass",
@@ -11,7 +11,7 @@
     "framework",
     "web"
   ],
-  "homepage": "https://codesigns.co.uk/",
+  "homepage": "https://utilitystrap.codesigns.co.uk/",
   "license": "MIT",
   "repository": {
     "type": "git",
