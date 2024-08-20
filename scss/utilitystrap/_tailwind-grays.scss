@@ -86,7 +86,7 @@ $colors: map-merge(
 @each $color, $shades in $colors {
   @each $shade, $value in $shades {
     @if $value != null {
-      § .text-#{$color}-#{$shade} {
+      .text-#{$color}-#{$shade} {
         color: $value !important;
       }
       .bg-#{$color}-#{$shade} {
